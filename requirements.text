@@ -1,0 +1,14 @@
+wzgram
+pyrogram
+tgcrypto
+cryptography==46.0.7
+aiofiles
+aiohttp
+cloudscraper
+requests
+pymongo
+psutil
+tenacity
+natsort
+python-magic
+pytz
